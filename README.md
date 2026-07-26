@@ -1,4 +1,4 @@
 variables 
--what are variables 
-rules for choosing variable name 
-var VS Let 
+1. -what are variables 
+2. rules for choosing variable name 
+3. var VS Let 
